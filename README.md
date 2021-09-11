@@ -99,6 +99,16 @@ Raw String:
  f=open(".//class//sample.txt")
  ```
  
+ <hr>
 
+ ## **Working with files**
+
+ reading text files :-
+
+ Method | Syntax | Description 
+------------ | ------------ | ------------- 
+`read()` | ``` f.read([n]) ``` | Read mode 
+`w` | `wb` | Write mode 
+`a` | `ab` | Append mode 
 
 
