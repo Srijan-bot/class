@@ -86,8 +86,19 @@ Bears; on to Harvard with the Hahvad Punk kids; and exits at the home of famed J
 Raw String:
  The string is used when there is so special meaning attach to any charcter. It uses prefix `r` before the path.
  > syntax:
- ``` f=open(r"./class/sample.txt")
+
+ ```
+
+ f=open(r"./class/sample.txt")
+
  ```  
+ Path String:
+ This is the orignal way of showing the path in python.
+ > syntax:
+ ```
+ f=open(".//class//sample.txt")
+ ```
  
+
 
 
