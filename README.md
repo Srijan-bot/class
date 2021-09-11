@@ -81,5 +81,13 @@ Bears; on to Harvard with the Hahvad Punk kids; and exits at the home of famed J
  Square. Join a poet with time to kill on the MBTA, with his worst enemy, his mind, and his best
   friend, the pen.`
 
+#### Raw vs. PureString
+
+Raw String:
+ The string is used when there is so special meaning attach to any charcter. It uses prefix `r` before the path.
+ > syntax:
+ ``` f=open(r"./class/sample.txt")
+ ```  
+ 
 
 
